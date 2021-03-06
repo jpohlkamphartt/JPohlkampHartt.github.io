@@ -1,0 +1,23 @@
+---
+title: "Biography"
+---
+
+Born in Dartmouth, Nova Scotia, Canada, I grew up playing a variety sports and enjoying math class. From the age of 12 I had dreamed of working on NHL stats for a living. Today I get to do that as the data analyst for the Boston Bruins.
+
+Growing up, I was lucky to compete at high levels in several sports including university football and lacrosse, as well as being a Canada Games alternate for Nova Scotia in hockey. Through these I was able to keep my passion for sports alive and understand the determination and skill required to compete with the best. I don't consider myself the best by any means, I learned a heck of a lot from the schoolings my teammates put on me regularly in practice.
+
+My other passion as a kid was numbers, math class was fun (who says that?). So when my cousin recommended taking math as my major in university because "there are no labs taking up all your time", I jumped on the idea and headed off to Queen's University. Note: there are no labs in math but the assignments take an equally infinite amount of time. At Queen's I found my preference for statistics over other mathematical disciplinces that are less data driven. After obtaining my undergraduate degree mathematics, I was able to continue my journey in statistics. Working with Dr. Thompson and Dr. Takahara, I completed both Masters and Doctoral degrees at Queen's over the next 6 years. My areas of research included Spectral Analysis of Cognitive Radio, Cardiology, Commodities and Sports.
+
+In the last year of my doctoral program, I collaborated on research with the Kingston Frontenacs for my thesis. This lead me to having the position of Director of Analytics for the 2014-2015 season. The research culminated in several interesting ideas on measuring neutral zone play, line combination optimization and in-game player quality which are published in my thesis.
+
+After graduation, I moved to San Francisco to work on Apple Maps as a statistician. During my time with Apple I worked on pionerring projects in the fields of route optimization, autonomous sensing and reconstruction systems, and geo-spatial hypothesis testing. Some of my proudest moments with Apple were leading teams for the global launch of Apple Maps features for indoor maps and public transportation.
+
+AFter 3 years with Apple, I had the opportunity to join the Boston Bruins as their data analyst. Since the 2018-2019 season I have worked with the Bruins to develop impactful models, metrics and analysis for their hockey operations. I believe that the fundemental role of data scientists/analysts/statisticians is to enable well informed data driven decisions and we apply this to the hockey related decisions of the Bruins.
+
+Outside of my interests in statistics and team sports, I am also an avid amateur electronic musician and in a past life a professional DJ. On my contact page, I include a couple links to my music, if you are so inclined.
+
+Josh Pohlkamp-Hartt
+
+
+[Resume](files/JPohlkampHartt-Resume_2021.pdf)
+

@@ -1,0 +1,31 @@
+---
+title: "Publications & Media"
+---
+
+**Publications:**
+
+[MSc Thesis: The Development and Practical Study of a Grey Space Detector for Cognitive Radio](files/JPohlkampHartt Msc Thesis.pdf)
+
+[PhD Thesis: Learning Methods For Spectrum Estimation](files/JPohlkamp-Hartt_PhdThesis.pdf)
+
+[JSM 2015: Developing An Analytics Program for Major Junior Hockey](files/JSM-Talk-2015-Pohlkamp-Hartt.pdf)
+
+[OTTHAC 2016: A Statistical Framework for Hockey Analytics](files/Ottawa-Hockey-Analytics-Talk-2016-Pohlkamp-Hartt.pdf)
+
+[SSC 2014: The Bootstrapped F-Test](files/SSCTalk2014.pdf)
+
+[SSC 2015: Tackling Data Synthesis Using Multitaper](files/SSCTalk2015-JPH.pdf)
+
+[White Paper: Statistical Learning Techniques for Spectrum Based Signal Synthesis](files/Synthesis Paper.pdf)
+
+
+
+**Media:**
+
+[Elite Prospects](https://www.eliteprospects.com/staff/58372/josh-pohlkamp-hartt)
+
+[Towards Data Science Interview](https://towardsdatascience.com/from-apple-to-boston-bruins-how-one-data-professional-combined-his-personal-and-professional-b28f0336d5d7)
+
+[Beta Camp](https://www.beta.camp/post/why-you-should-pursue-your-passion)
+
+[Interview with Shawn Ferris](https://www.stanleycupofchowder.com/2020/5/26/21267653/pastrnak-goals-by-opponent-r-tutorial)
