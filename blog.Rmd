@@ -1,0 +1,5 @@
+---
+title: "Blog"
+---
+
+Figure out how to link to medium article or include other links to Rmd files?
