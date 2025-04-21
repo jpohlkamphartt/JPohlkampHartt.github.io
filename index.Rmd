@@ -4,12 +4,24 @@ title: "Josh Pohlkamp-Hartt, PhD"
 
 **Welcome!**
 
-I'm Josh, a statistician and sports enthusiast from Dartmouth, Nova Scotia, Canada.
+I'm Josh Pohlkamp-Hartt, a statistician and sports analytics professional from Dartmouth, Nova Scotia, Canada.
 
-This site serves as the collection of my interests and ideas. All opinions and ideas are my own unless stated otherwise.
+This site showcases my professional work, research publications, and personal insights at the intersection of data science and athletics. All perspectives and analyses presented here are my own unless explicitly attributed otherwise.
 
-On the navigation bar you can find links to my publications, biography, contact information and less formal writing.
+The navigation menu above provides access to my academic publications, professional biography and contact information.
 
-Many thanks to my partner Liisa for all her support, physical and mental!
+I extend my deepest gratitude to my wife Liisa for her support throughout my professional journey.
 
-<img src="files/LiisaJosh_Engagement.jpg" style="width:50%">
+Some cool shots from the last few years:
+
+Working at the draft table
+<img src="files/GettyImages-1504302222.jpg" style="width:50%">
+
+Walking the red carpet of the Bruins Centenial Gala
+<img src="files/josh campbell gala 1.jpg" style="width:50%">
+
+Talking to students at the Nashua Sports Management Summit
+<img src="files/IMG_7849.jpg" style="width:50%">
+
+Skating at the Winter Classic
+<img src="files/FenwaySkatewithCampbellDanielle.jpg" style="width:50%">

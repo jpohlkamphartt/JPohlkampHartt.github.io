@@ -2,7 +2,7 @@
 title: "Publications & Media"
 ---
 
-**Publications:**
+**Publications and Presentations:**
 
 [MSc Thesis: The Development and Practical Study of a Grey Space Detector for Cognitive Radio](files/JPohlkampHartt Msc Thesis.pdf)
 
@@ -18,14 +18,37 @@ title: "Publications & Media"
 
 [White Paper: Statistical Learning Techniques for Spectrum Based Signal Synthesis](files/Synthesis Paper.pdf)
 
+[XPG Geometry Talk Queens 2020](files/XPG Geometry Talk Queens May 2020.pdf)
 
+[MSAM Presentation 2021: Intro To Player Evaluation](files/MSAM2021_JPohlkampHartt_IntroToPlayerEvaluation.pdf)
+
+[Pain Medicine Paper 2023](files/Efficacy of Fascia Iliaca Compartment Blocks in Proximal Femoral Fractures in the Prehospital Setting_ A Systematic Review and Meta-Analysis)
+
+[Development Point Shares Presentation 2024, joint work with Claire Dudley](files/Development Point Shares_JPohlkamp-Hartt.pdf)
 
 **Media:**
 
+[Bruins Website](https://www.nhl.com/bruins/team/hockey-ops/josh-pohlkamp-hartt)
+
 [Elite Prospects](https://www.eliteprospects.com/staff/58372/josh-pohlkamp-hartt)
+
+[Sport Analytics Podcast Jan 2025](https://www.youtube.com/watch?v=2GSqyRA8o5I)
 
 [Towards Data Science Interview](https://towardsdatascience.com/from-apple-to-boston-bruins-how-one-data-professional-combined-his-personal-and-professional-b28f0336d5d7)
 
 [Beta Camp](https://www.beta.camp/post/why-you-should-pursue-your-passion)
 
-[Interview with Shawn Ferris](https://www.stanleycupofchowder.com/2020/5/26/21267653/pastrnak-goals-by-opponent-r-tutorial)
+[2020 Interview with Shawn Ferris](https://www.stanleycupofchowder.com/2020/5/26/21267653/pastrnak-goals-by-opponent-r-tutorial)
+
+[LINHAC 2024 Interview with Campbell Weaver](https://www.youtube.com/watch?v=0zNdjUkIAfo)
+
+[LINHAC 2023 Panel on NHL Analytics](https://www.youtube.com/watch?v=c5wEn6lw95o)
+
+<!-- [Advanced R Chapter 2: Names and Values](https://www.youtube.com/watch?v=pCiNj2JRK50) -->
+
+<!-- [Advanced R Chapter 17: Metaprogramming](https://www.youtube.com/watch?v=vKKDU6x3BE8) -->
+
+[Boston Sports Journal Feature](https://www.bostonsportsjournal.com/2022/04/25/inside-the-collaborative-partnership-between-bruce-cassidy-and-bruins-analytics-staff)
+
+
+
